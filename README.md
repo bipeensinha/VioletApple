@@ -26,8 +26,8 @@ Follow these instructions to get the project up and running on your local machin
 
 ### Prerequisites
 
-- Java Development Kit (JDK) installed (version X.X or higher)
-- Maven build tool installed (version X.X or higher)
+- Java Development Kit (JDK) installed (version 17 or higher)
+- Maven build tool installed 
 - Docker (optional, for running Zipkin in a container)
 
 ### Installation
